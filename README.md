@@ -4,5 +4,4 @@
 
 ## 示例图片
 
-![demo]('https://lomesome.top/file/images/demo.gif')
-
+![demo](https://lomesome.top/file/images/demo.gif)
